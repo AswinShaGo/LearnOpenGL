@@ -65,3 +65,5 @@ YoutubeOpenGL/x64/Debug/YoutubeOpenGL.tlog/link.read.1.tlog
 YoutubeOpenGL/x64/Debug/YoutubeOpenGL.tlog/link.write.1.tlog
 YoutubeOpenGL/x64/Debug/YoutubeOpenGL.tlog/unsuccessfulbuild
 YoutubeOpenGL/x64/Debug/YoutubeOpenGL.tlog/YoutubeOpenGL.lastbuildstate
+.vs/YoutubeOpenGL/v15/Browse.VC.opendb
+*.user
