@@ -36,6 +36,9 @@
 *.pdb
 *.ilk
 *.sln
+*.idb
+*.log
+YoutubeOpenGL/Debug/YoutubeOpenGL.tlog/CL.command.1.tlog
 YoutubeOpenGL/Debug/YoutubeOpenGL.tlog/CL.read.1.tlog
 YoutubeOpenGL/Debug/YoutubeOpenGL.tlog/CL.write.1.tlog
 YoutubeOpenGL/Debug/YoutubeOpenGL.tlog/link.command.1.tlog
